@@ -1,2 +1,2 @@
 # Calculator Test
-Calculator test exercise implementing Jasmine Testing.
+Calculator test implementing Jasmine Testing.
